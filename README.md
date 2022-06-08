@@ -8,6 +8,10 @@ adityanav123/adityanav123 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityanav123&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityanav123&layout=compact)](https://github.com/adityanav123/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityanav123&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityanav123&repo=convoychat" />
+</a>
