@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aditya. @adityanav123
 - 👀 I’m interested in Programming.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/adityanavphule/)
-- My Resume : https://iitjacin-my.sharepoint.com/:b:/g/personal/navphule_1_iitj_ac_in/EV5w8_nD30RDiZNLgcoGQUgBEGCZbaM_swrzV3QqNIwqhw?e=yMH3aP
+- My Resume : https://drive.google.com/file/d/1ZuX3gwst28ZvzVb3PBSBCEdxbdAzZoVh/view?usp=sharing
 
 <!---
 adityanav123/adityanav123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
