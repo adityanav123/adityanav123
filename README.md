@@ -1,11 +1,11 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aditya Navphule
 
 
-I have been programming for the past 7 years. Started from QBasic. Post Graduation in Computer Science.
+Software Developer. I have been programming for the past 7 years. Started from QBasic. Post Graduation in Computer Science.
 
-🌍  I'm based in Rajasthan, India*
+🌍  I'm based in India*
 
-✉️  You can contact me at [navphule.1@iitj.ac.in](mailto:navphule.1@iitj.ac.in)* 
+✉️  You can contact me at [Aditya Navphule](mailto:diokelesathenian@proton.me)* 
 
 🧠  I'm learning Swift, iOS Development, Bash Scripting
 
