@@ -1,35 +1,24 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aditya Navphule
+<h1 align="center">Hi 👋, I'm Aditya Navphule</h1>
+<h3 align="center">SDE</h3>
 
+- 🌱 I’m currently learning **Kotlin, Postgres**
 
-Software Developer.
+- 👨‍💻 All of my projects are available at [github.com/adityanav123](github.com/adityanav123)
 
+- 📫 How to reach me **adityanav@duck.com**
 
-I have been programming for the past 7 years. Started from QBasic. Post Grad in Computer Science.
+- 📄 Know about my experiences [https://drive.google.com/file/d/1S_T92uGYTvSSEcTFlNVSw7SLFG3y8IU0/view?usp=sharing&usp=embed_facebook](https://drive.google.com/file/d/1S_T92uGYTvSSEcTFlNVSw7SLFG3y8IU0/view?usp=sharing&usp=embed_facebook)
 
-🌍  I'm based in India*
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/anavphule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anavphule" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adityanavphule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityanavphule" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/diokles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="diokles" height="30" width="40" /></a>
+</p>
 
-✉️  You can contact me at [Aditya Navphule](mailto:diokelesathenian@proton.me)* 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-🧠  I'm learning Swift, iOS Development, Bash Scripting
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityanav123&show_icons=true&locale=en&layout=compact" alt="adityanav123" /></p>
 
-### Skills
-
-<p align="left"><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a></p>
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/adityanav123" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adityanavphule" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ANavphule" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/adityanav123"><img src="https://github-readme-stats.vercel.app/api?username=adityanav123&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="adityanav123's GitHub stats" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/adityanav123/Simrank" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=adityanav123&repo=Simrank&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/adityanav123/Python" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=adityanav123&repo=Python&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-<br /><br />
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/adityanav123/YouTube_Downloader" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=adityanav123&repo=YouTube_Downloader&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/adityanav123/iOS-Projects" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=adityanav123&repo=iOS-Projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityanav123&show_icons=true&locale=en" alt="adityanav123" /></p>
