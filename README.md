@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Kotlin, Postgres**
 
-- 👨‍💻 All of my projects are available at [github.com/adityanav123](github.com/adityanav123)
+- 👨‍💻 All of my projects are available at [aditya-navphule : GitHub](github.com/adityanav123)
 
 - 📫 How to reach me **adityanav@duck.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1S_T92uGYTvSSEcTFlNVSw7SLFG3y8IU0/view?usp=sharing&usp=embed_facebook](https://drive.google.com/file/d/1S_T92uGYTvSSEcTFlNVSw7SLFG3y8IU0/view?usp=sharing&usp=embed_facebook)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1S_T92uGYTvSSEcTFlNVSw7SLFG3y8IU0/view?usp=sharing&usp=embed_facebook)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
