@@ -7,14 +7,13 @@
 
 - 📫 How to reach me **adityanav@duck.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1S_T92uGYTvSSEcTFlNVSw7SLFG3y8IU0/view?usp=sharing&usp=embed_facebook)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1uu5z5f69qtvPCwgGg0RDRR_Mm9Ior8tX/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anavphule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anavphule" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adityanavphule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityanavphule" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/diokles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="diokles" height="30" width="40" /></a>
-<a href="https://www.kooapp.com/profile/diokeles" target="blank"><img aling="center" src="https://svgshare.com/i/oey.svg" alt="Aditya Navphule" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
