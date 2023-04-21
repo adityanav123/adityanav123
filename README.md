@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Navphule</h1>
 <h3 align="center">SDE</h3>
 
-- 🌱 I’m currently learning **Java, Unreal Engine5.0**
+- 🌱 I’m currently learning **Java, Lua, Unreal Engine5.0**
 
 - 👨‍💻 All of my projects are available at [aditya-navphule : GitHub](github.com/adityanav123)
 
