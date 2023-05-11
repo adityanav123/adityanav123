@@ -21,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityanav123&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="adityanav123" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityanav123&show_icons=true&theme=gruvbox&locale=en" alt="adityanav123" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=adityanav123&show_icons=true&theme=gruvbox&locale=en" alt="adityanav123" /></p>
