@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Navphule</h1>
-<h3 align="center">SDE</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 🌱 I’m currently learning **Java, Lua, Unreal Engine5.0**
 
