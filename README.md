@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **adityanav@duck.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Juo55IayIytPcMJaNOi3BzXAmg1pP0DW/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1n2Ocl4z77qelwSjpkBtFRdDcm_j4i8GW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
