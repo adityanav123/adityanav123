@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Navphule</h1>
 <h3 align="center">I am a Software Engineer</h3>
 
-- 🌱 I’m currently learning **Javascript**, **HTML**, **CSS**
+- 🌱 I’m currently learning **C++20**, **SFML**, **Qt**
 
 - 👨‍💻 All of my projects are available at [aditya-navphule : GitHub](github.com/adityanav123)
 
