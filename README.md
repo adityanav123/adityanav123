@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Navphule</h1>
-<h3 align="center">I am a Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 🌱 I’m currently learning **C++20**, **SFML**, **Qt**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **adityanav@duck.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/18ThFK1rPKwV58lw759BGwlUMeNDXpHpd/view?usp=sharing)
+- 📄 Know about my experiences [My Résumé](https://drive.google.com/file/d/1V74lZjd3FuwQt8IKJ99Fxcc9B0t8W_CU/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
