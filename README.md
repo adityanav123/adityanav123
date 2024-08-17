@@ -8,11 +8,6 @@
 
 - 📄 Know about my experiences [My Résumé](https://drive.google.com/file/d/1V74lZjd3FuwQt8IKJ99Fxcc9B0t8W_CU/view?usp=sharing)
 
-<h3 align="left"> !!! Job Search !!!</h3>
-
-- 💼 I'm currently searching for a job as an Entry Level Software Engineer. 
-- If you know of any job openings, I would be grateful if you could refer me or share my resume with the hiring manager. Please feel free to contact me at **adityanavphule122@gmail.com**. 
-- You can find more details about my previous work experience and qualifications in my resume: [Aditya:Résumé](https://drive.google.com/file/d/1jjjus4dIppc2bw7Wkyg1mIw01SWUgjCj/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
