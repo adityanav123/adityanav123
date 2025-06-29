@@ -22,6 +22,6 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityanav123&show_icons=true&theme=gruvbox&locale=en&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="adityanav123" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityanav123&show_icons=true&locale=en&layout=compact" alt="adityanav123&theme=gruvbox" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=adityanav123&show_icons=true&theme=gruvbox&locale=en&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="adityanav123" /></p>
