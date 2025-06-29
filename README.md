@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Navphule</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Engineer</h3>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I learn and write.
 - 👨‍💻 All of my projects are available at [aditya-navphule : GitHub](github.com/adityanav123)
 
 - 📫 How to reach me **adityanav@duck.com**
