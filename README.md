@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aditya Navphule</h1>
 <h3 align="center">Engineer</h3>
 
-- 🌱 I learn and write.
+- 🌱 I try to learn and write.
 - 👨‍💻 All of my projects are available at [aditya-navphule : GitHub](github.com/adityanav123)
 
-- 📫 How to reach me **adityanav@duck.com**
-
-- 📄 Know about my experiences [My Résumé](https://drive.google.com/file/d/1V74lZjd3FuwQt8IKJ99Fxcc9B0t8W_CU/view?usp=sharing)
-
+- 📫 How to reach me **adityanavphule122@zohomail.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thaletas_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anavphule" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adityanavphule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityanavphule" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/diokles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="diokles" height="30" width="40" /></a>
 </p>
@@ -21,7 +17,3 @@
  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://miqh.gallerycdn.vsassets.io/extensions/miqh/vscode-language-rust/0.14.0/1536151476041/Microsoft.VisualStudio.Services.Icons.Default" alt="Rust" width="40" height="40"/> <!-- Added Rust -->
 
 </p>
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityanav123&show_icons=true&locale=en&layout=compact" alt="adityanav123&theme=gruvbox" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=adityanav123&show_icons=true&theme=gruvbox&locale=en&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="adityanav123" /></p> -->
