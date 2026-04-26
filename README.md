@@ -1,5 +1,5 @@
 <h1 align="center">aditya navphule</h1>
-<p align="center"><sub>engineer  ·  learning in public</sub></p>
+<p align="center"><sub>supposed to be an engineer  ·  trying to learn</sub></p>
 
 ---
 
